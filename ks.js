@@ -1,7 +1,7 @@
 var mediaData = {
   authors: {
-    picUrl: ["images/0.jpg", "images/1.jpg", "images/2.jpg", "images/3.jpg", "images/4.jpg", "images/5.jpg"],
-    names: ["指导老师:李健宏", "组长:余泽亮", "组员:刘可汉", "组员:刘强", "组员:徐韬飞", "组员:张子然"]
+    picUrl: ["images/0.jpg",  "images/2.jpg","images/1.jpg","images/3.jpg", "images/4.jpg", "images/5.jpg"],
+    names: ["指导老师:李健宏", "组员:刘可汉", "组长:余泽亮", "组员:刘强", "组员:徐韬飞", "组员:张子然"]
   },
   audioPath: "https://jxzy-dmxy.jxstnu.edu.cn/",
   audioFiles: [
